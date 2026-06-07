@@ -1,0 +1,38 @@
+[
+  {
+    "nameTask": "Go to gym",
+    "status_id": 1,
+    "status": "ToDo",
+    "priority_id": 3,
+    "priority": "Hight"
+  },
+  {
+    "nameTask": "Read a book",
+    "status_id": 3,
+    "status": "Done",
+    "priority_id": 1,
+    "priority": "Low"
+  },
+  {
+    "nameTask": "Go to market",
+    "status_id": 2,
+    "status": "In progress",
+    "priority_id": 2,
+    "priority": "Medium"
+  },
+  {
+    "nameTask": "Study english",
+    "status_id": 2,
+
+    "status": "In progress",
+    "priority_id": 3,
+    "priority": "Hight"
+  },
+  {
+    "nameTask": "Play game",
+    "status_id": 3,
+    "status": "Done",
+    "priority_id": 1,
+    "priority": "Low"
+  }
+]
