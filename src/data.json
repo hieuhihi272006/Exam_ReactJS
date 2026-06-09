@@ -1,38 +1,37 @@
 [
   {
+    "id": 0,
     "nameTask": "Go to gym",
     "status_id": 1,
     "status": "ToDo",
-    "priority_id": 3,
     "priority": "Hight"
   },
   {
+    "id": 1,
     "nameTask": "Read a book",
     "status_id": 3,
     "status": "Done",
-    "priority_id": 1,
     "priority": "Low"
   },
   {
+    "id": 2,
     "nameTask": "Go to market",
     "status_id": 2,
     "status": "In progress",
-    "priority_id": 2,
     "priority": "Medium"
   },
   {
+    "id": 3,
     "nameTask": "Study english",
     "status_id": 2,
-
     "status": "In progress",
-    "priority_id": 3,
     "priority": "Hight"
   },
   {
+    "id": 4,
     "nameTask": "Play game",
     "status_id": 3,
     "status": "Done",
-    "priority_id": 1,
     "priority": "Low"
   }
 ]
